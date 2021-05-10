@@ -1,0 +1,6 @@
+[submodule "Aagos"]
+	path = Aagos
+	url = git@github.com:amlalejini/Aagos.git
+[submodule "MABE"]
+	path = MABE
+	url = git@github.com:Hintzelab/MABE.git
