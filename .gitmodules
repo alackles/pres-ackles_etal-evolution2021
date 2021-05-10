@@ -1,6 +1,6 @@
 [submodule "Aagos"]
-	path = Aagos
+	path = source/Aagos
 	url = git@github.com:amlalejini/Aagos.git
 [submodule "MABE"]
-	path = MABE
+	path = source/MABE
 	url = git@github.com:Hintzelab/MABE.git
