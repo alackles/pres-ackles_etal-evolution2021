@@ -4,3 +4,6 @@
 [submodule "source/MABE"]
 	path = source/MABE
 	url = git@github.com:Hintzelab/MABE.git
+[submodule "source/Empirical"]
+	path = source/Empirical
+	url = git@github.com:devosoft/Empirical.git
